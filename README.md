@@ -1,4 +1,3 @@
-<div align="center"><img src="./dist/images/bapul-starter-kit.png" alt="bapul-starter-kit"></div>
 
 ## ✿ Overview
 __빠른 웹사이트 제작__을 위한 __Front-End 개발 도구__ 입니다.
